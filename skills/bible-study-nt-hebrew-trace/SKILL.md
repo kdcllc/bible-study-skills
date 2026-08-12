@@ -3,10 +3,6 @@ name: bible-study-nt-hebrew-trace
 description: "Trace a New Testament Greek word to possible Old Testament Hebrew equivalents through the Septuagint (LXX). Use when studying a NT word, Strong's number, Greek-to-Hebrew bridge, LXX occurrence, first mention, Bible word study, or NT quotation/allusion of the OT."
 argument-hint: "NT reference and target English or Greek word, e.g. Ephesians 2:8 grace"
 ---
----
-name: bible-study-nt-hebrew-trace
-description: Trace a New Testament Greek word back to its Old Testament Hebrew root using free web-based Bible tools (Blue Letter Bible, BibleHub, STEP Bible) — no desktop software required. Given an NT verse and a target English word, this skill finds the Greek word and its Strong's number, locates that Greek word's occurrences in the Septuagint (LXX), identifies the Hebrew word(s) it translates, and converts to the Hebrew Strong's number, then applies the first-mention principle and law of context to interpret the connection. Use this skill whenever the user asks to do a Bible word study, trace a word from the New Testament to the Old Testament, find the Hebrew behind a Greek word, find a word's "first mention," look up Strong's numbers, study the Septuagint bridge between testaments, or asks what a biblical word "really means" in the original languages — even if they don't say "word study" explicitly.
----
 
 # NT → OT Word Tracer
 
